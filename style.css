@@ -1,0 +1,16 @@
+.msg {
+    font-weight: bold;
+    font-family: 'Comic sans ms';
+}
+
+.homme {
+    color: deeppink;
+}
+
+.femme {
+    color: crimson;
+}
+
+.autre {
+    color: darkorchid;
+}
